@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Nitrogen</key>
+		<dict>
+			<key>Definition</key>
+			<string>Nitrogen is a chemical element with symbol N and atomic number 7, it forms about 78% of Earth&apos;s atmosphere, making it the most abundant uncombined element. Nitrogen occurs in all organisms, primarily in amino acids (and thus proteins), in the nucleic acids (DNA and RNA) and in the energy transfer molecule adenosine triphosphate. The human body contains about 3% nitrogen by mass, the fourth most abundant element in the body after oxygen, carbon, and hydrogen. The nitrogen cycle describes movement of the element from the air, into the biosphere and organic compounds, then back into the atmosphere.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Nitrogen</string>
+				<key>PageReference</key>
+				<string>Terraform%20Chapter/I86f</string>
+			</dict>
+		</dict>
+		<key>Oxigen</key>
+		<dict>
+			<key>Definition</key>
+			<string>Oxygen is a chemical element with symbol O and atomic number 8. This is an important part of the atmosphere and diatomic oxygen gas constitutes 20.8% of the Earth&apos;s atmosphere. Additionally, as oxides the element makes up almost half of the Earth&apos;s crust.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Oxigen</string>
+				<key>PageReference</key>
+				<string>Terraform%20Chapter/I86f</string>
+			</dict>
+		</dict>
+		<key>Carbon</key>
+		<dict>
+			<key>Definition</key>
+			<string>Carbon (from Latin: carbo &quot;coal&quot;) is a chemical element with symbol C and atomic number 6. Carbon is the 15th most abundant element in the Earth&apos;s crust, and the fourth most abundant element in the universe by mass after hydrogen, helium, and oxygen.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Carbon</string>
+				<key>PageReference</key>
+				<string>Terraform%20Chapter/I86f</string>
+			</dict>
+		</dict>
+		<key>Voyager 2</key>
+		<dict>
+			<key>Definition</key>
+			<string>Voyager 2 is a space probe launched by NASA on August 20, 1977, to study the outer planets. Part of the Voyager program, it was launched 16 days before its twin, Voyager 1, on a trajectory that took longer to reach Jupiter and Saturn but enabled further encounters with Uranus and Neptune.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Voyager 2</string>
+				<key>PageReference</key>
+				<string>Terraform%20Chapter/I86f</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
